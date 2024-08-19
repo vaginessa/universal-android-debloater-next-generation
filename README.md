@@ -35,3 +35,8 @@ For documentation regarding how to use UAD-ng, the FAQ, building from source and
 - [@0x192](https://github.com/0x192) who created the original UAD project.
 - [@mawilms](https://github.com/mawilms) for his LotRO plugin manager ([Lembas](https://github.com/mawilms/lembas)) which helped a lot to understand how to use the [Iced](https://github.com/hecrj/iced) GUI library.
 - [@casperstorm](https://github.com/casperstorm) for the UI/UX inspiration.
+
+
+
+
+    
