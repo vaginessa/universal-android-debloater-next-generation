@@ -28,7 +28,7 @@ impl About {
         // other events are handled by UadGui update()
     }
     pub fn view(&self, update_state: &UpdateState) -> Element<Message, Theme, Renderer> {
-        let about_text = text("Universal Android Debloater Next Generation (UAD-ng) is a free and open-source community project \naiming at simplifying the removal of pre-installed apps on any Android device.",);
+        let about_text = text("Universal Android Debloater Next Generation (UAD-ng) is a free and open-source community project \naiming at simplifying the removal of pre-installed apps on any Android device. vannidev",);
 
         let descr_container = container(about_text)
             .width(Length::Fill)
